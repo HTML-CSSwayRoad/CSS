@@ -7,6 +7,7 @@ CSS Flexbox — это технология для создания сложны
 https://tproger.ru/translations/how-css-flexbox-works/  
 http://css.yoksel.ru/flexbox/
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
 
 # Grid   
 
