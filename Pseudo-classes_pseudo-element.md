@@ -18,3 +18,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type
 
 The :first-child CSS pseudo-class represents the first element among a group of sibling elements.
 https://developer.mozilla.org/ru/docs/Web/CSS/:first-child
+
+
+differnce between :: and :  
+
+Pseudo-class :  
+Pseudo-elements ::  
+The CSS3 Selectors specification prefixes pseudo-elements with two colons instead of one. So, :first–letter becomes ::first-letter and :first-line becomes ::first-line. IE 8 and earlier don’t understand the double-colon prefix, so you need use the single-colon versions to avoid styles breaking in older browsers.
